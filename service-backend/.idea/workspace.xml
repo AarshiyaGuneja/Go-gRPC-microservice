@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b75de8b-eb2e-4c22-a5fb-e9a2ae00beb5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truck-service/impl/db.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-service/acceptance_tests/acceptance_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truck-service/impl/handler.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/truck-service/acceptance_tests/acceptance_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+              <folding>
+                <element signature="e#26#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer-service/impl/service.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+              <folding>
+                <element signature="e#14#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/truck-service/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GetCorporationById</find>
+      <find>SignUp</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auth-service/main.go" />
+        <option value="$PROJECT_DIR$/auth-service/impl/handler.go" />
+        <option value="$PROJECT_DIR$/auth-service/impl/service.go" />
+        <option value="$PROJECT_DIR$/proto/auth.proto" />
+        <option value="$PROJECT_DIR$/auth-service/impl/db.go" />
+        <option value="$PROJECT_DIR$/auth-service/acceptance_tests/acceptance_test.go" />
+        <option value="$PROJECT_DIR$/protogen.sh" />
+        <option value="$PROJECT_DIR$/proto/common.proto" />
+        <option value="$PROJECT_DIR$/proto/customer.proto" />
+        <option value="$PROJECT_DIR$/truck-service/common/mongo.go" />
+        <option value="$PROJECT_DIR$/customer-service/impl/service.go" />
+        <option value="$PROJECT_DIR$/customer-service/impl/handler.go" />
+        <option value="$PROJECT_DIR$/customer-service/impl/db.go" />
+        <option value="$PROJECT_DIR$/customer-service/main.go" />
+        <option value="$PROJECT_DIR$/truck-service/main.go" />
+        <option value="$PROJECT_DIR$/customer-service/acceptance_tests/acceptance_test.go" />
+        <option value="$PROJECT_DIR$/proto/truck.proto" />
+        <option value="$PROJECT_DIR$/truck-service/impl/handler.go" />
+        <option value="$PROJECT_DIR$/truck-service/impl/service.go" />
+        <option value="$PROJECT_DIR$/truck-service/impl/db.go" />
+        <option value="$PROJECT_DIR$/truck-service/acceptance_tests/acceptance_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="69" />
+    <option name="y" value="16" />
+    <option name="width" value="1281" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="acceptance_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="truck-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="truck-service" type="462c0819:PsiDirectoryNode" />
+              <item name="acceptance_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="truck-service" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="truck-service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fleet-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fleet-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="truck-service" type="462c0819:PsiDirectoryNode" />
+              <item name="proto" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestTruck in fleet-backend/truck-service/acceptance_tests">
+    <configuration name="TestCorporation in fleet-backend/customer-service/acceptance_tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fleet-management" />
+      <working_directory value="$PROJECT_DIR$/customer-service/acceptance_tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fleet-backend/customer-service/acceptance_tests" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCorporation$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDriverWorkflow in fleet-backend/customer-service/acceptance_tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fleet-management" />
+      <working_directory value="$PROJECT_DIR$/customer-service/acceptance_tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fleet-backend/customer-service/acceptance_tests" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestDriverWorkflow$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSignUp in fleet-backend/customer-service/acceptance_tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fleet-management" />
+      <working_directory value="$PROJECT_DIR$/customer-service/acceptance_tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fleet-backend/customer-service/acceptance_tests" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestSignUp$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTruck in fleet-backend/truck-service/acceptance_tests" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fleet-management" />
+      <working_directory value="$PROJECT_DIR$/truck-service/acceptance_tests" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="fleet-backend/truck-service/acceptance_tests" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestTruck$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="acceptance_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fleet-management" />
+      <working_directory value="$PROJECT_DIR$/customer-service/acceptance_tests" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="fleet-backend" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/customer-service/acceptance_tests/acceptance_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestTruck in fleet-backend/truck-service/acceptance_tests" />
+        <item itemvalue="Go Test.TestCorporation in fleet-backend/customer-service/acceptance_tests" />
+        <item itemvalue="Go Test.TestDriverWorkflow in fleet-backend/customer-service/acceptance_tests" />
+        <item itemvalue="Go Test.acceptance_test.go" />
+        <item itemvalue="Go Test.TestSignUp in fleet-backend/customer-service/acceptance_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="acceptance_test_go - 2019.06.17 at 15h 57m 51s.xml">
+      <configuration name="acceptance_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDriverWorkflow_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 15h 59m 39s.xml">
+      <configuration name="TestDriverWorkflow in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCorporation_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 15h 59m 49s.xml">
+      <configuration name="TestCorporation in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="acceptance_test_go - 2019.06.17 at 15h 59m 56s.xml">
+      <configuration name="acceptance_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDriverWorkflow_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 16h 11m 07s.xml">
+      <configuration name="TestDriverWorkflow in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestDriverWorkflow_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 16h 11m 49s.xml">
+      <configuration name="TestDriverWorkflow in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCorporation_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 16h 16m 33s.xml">
+      <configuration name="TestCorporation in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestCorporation_in_fleet-backend_customer-service_acceptance_tests - 2019.06.17 at 16h 19m 41s.xml">
+      <configuration name="TestCorporation in fleet-backend/customer-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTruck_in_fleet-backend_truck-service_acceptance_tests - 2019.06.17 at 17h 22m 46s.xml">
+      <configuration name="TestTruck in fleet-backend/truck-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestTruck_in_fleet-backend_truck-service_acceptance_tests - 2019.06.17 at 17h 24m 43s.xml">
+      <configuration name="TestTruck in fleet-backend/truck-service/acceptance_tests" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24621513" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935917" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935917" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.31743667" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32935917" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auth-service/proto/auth.pb.go" />
+    <entry file="file://$PROJECT_DIR$/auth-service/proto/auth.micro.go" />
+    <entry file="file:///usr/local/go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="776" selection-start-line="776" selection-end-line="776" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/auth.proto" />
+    <entry file="file://$PROJECT_DIR$/auth-service/acceptance_tests/acceptance_test.go" />
+    <entry file="file://$PROJECT_DIR$/auth-service/main.go" />
+    <entry file="file://$PROJECT_DIR$/auth-service/impl/db.go" />
+    <entry file="file://$PROJECT_DIR$/auth-service/impl/handler.go" />
+    <entry file="file://$PROJECT_DIR$/auth-service/impl/service.go" />
+    <entry file="file://$PROJECT_DIR$/start.sh" />
+    <entry file="file://$PROJECT_DIR$/stop.sh" />
+    <entry file="file://$PROJECT_DIR$/protogen.sh" />
+    <entry file="file://$PROJECT_DIR$/common/proto/common.micro.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/proto/common.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/common.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/proto/customer.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/customer.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/proto/customer.micro.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#94#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/common/mongo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/common/mongo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/impl/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="e#14#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/impl/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#14#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/impl/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/proto/truck.pb.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="204" column="5" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proto/truck.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/impl/handler.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/impl/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/impl/service.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer-service/acceptance_tests/acceptance_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/proto/truck.micro.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/micro/go-micro/client/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truck-service/acceptance_tests/acceptance_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="29" lean-forward="true" selection-start-line="86" selection-start-column="29" selection-end-line="86" selection-end-column="29" />
+          <folding>
+            <element signature="e#26#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
