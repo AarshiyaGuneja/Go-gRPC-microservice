@@ -153,11 +153,11 @@ body {
       background: white;
     }
 
-.message {
+  .message {
   font-size: 25px;
   margin-top: 10px;
   text-align: right;
-}
+  }
 
 
 

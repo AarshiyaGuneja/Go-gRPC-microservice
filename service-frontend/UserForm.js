@@ -41,7 +41,7 @@ class UserForm extends Component {
                 cols="28" placeholder="Enter User Email" /><br /><br />
             <input required type="text" ref={(input) => this.getPassword = input}
                 placeholder="Enter Password" /><br /><br />
-            <input type="submit" value="Submit" />
+            <button>Submit</button>
           </form>
         </div>
         );
@@ -50,7 +50,7 @@ class UserForm extends Component {
         
         const mapStateToProps = (state) => {
           return {
-              Users: state
+              users: state
           }
         }
         
