@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Starting main......")
+	fmt.Println("Starting customer service.")
 	service := micro.NewService(
 		micro.Name("customer-service"),
 	)

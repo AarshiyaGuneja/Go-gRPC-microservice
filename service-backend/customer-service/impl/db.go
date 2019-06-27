@@ -2,7 +2,7 @@ package impl
 
 import (
 	"context"
-	"fleet-backend/customer-service/common"
+	"fleet-backend/common/util"
 	"fleet-backend/customer-service/proto"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
@@ -23,7 +23,7 @@ const districtCollection = "district"
 const locationCollection = "location"
 
 func NewCustomerRepository() (*CustomerServiceRepository, error) {
-	if session, err := common.ConnectToMongo();
+	if session, err := util.ConnectToMongo();
 		err != nil {
 		return nil, err
 	} else {

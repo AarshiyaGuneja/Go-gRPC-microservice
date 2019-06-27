@@ -2,7 +2,7 @@ package impl
 
 import (
 	"context"
-	"fleet-backend/truck-service/common"
+	"fleet-backend/common/util"
 	"fleet-backend/truck-service/proto"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
@@ -22,7 +22,7 @@ func (c *TruckServiceRepository) truckCollection() *mgo.Collection {
 }
 
 func NewTruckRepository() (*TruckServiceRepository, error) {
-	if session, err := common.ConnectToMongo();
+	if session, err := util.ConnectToMongo();
 		err != nil {
 		return nil, err
 	} else {
